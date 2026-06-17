@@ -1,4 +1,4 @@
-# Hey there! I'm Pawan Shigwan 👋
+                                                # Hey there! I'm Pawan Shigwan 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1300&center=true&vCenter=true&width=820&lines=FINAL+YEAR+COMPUTER+ENGINEERING+STUDENT;DATA+ANALYST+%7C+FRONTEND+DEVELOPER;TURNING+DATA+INTO+DECISIONS+%F0%9F%93%8A;BUILDING+INTERACTIVE+WEB+EXPERIENCES+%F0%9F%92%BB;LEARNING+%7C+BUILDING+%7C+GROWING+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
