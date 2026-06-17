@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1300&center=true&vCenter=true&width=820&lines=DATA+ANALYST+%7C+FRONTEND+DEVELOPER+%7C+CE+FINAL+YEAR;TURNING+DATA+INTO+DECISIONS+%F0%9F%93%8A;BUILDING+INTERACTIVE+WEB+EXPERIENCES+%F0%9F%92%BB;EXPLORING+MACHINE+LEARNING+%26+AI;LEARNING+NON-STOP"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1300&center=true&vCenter=true&width=820&lines=JAVA+FULL+STACK+DEVELOPER+%7C+BACKEND+ENGINEER;SPRING+BOOT+%7C+REACT.JS+%7C+MONGODB+%7C+AZURE;BUILDING+AI-POWERED+%26+REAL-TIME+SYSTEMS+%F0%9F%A4%96;SIH+2025+INTERNAL+HACKATHON+FINALIST+%F0%9F%8F%86;LEARNING+NON-STOP+%F0%9F%9A%80"
       alt="Typing SVG"
     />
   </a>
@@ -23,23 +23,27 @@
 
 ### About Me
 
-I'm **Pawan Shigwan**, a **detail-driven programmer** and **data analytics enthusiast** | Final Year Computer Engineering student at VPPCOEVA, Mumbai, passionate about transforming raw data into meaningful decisions.  
-From crafting interactive web tools to performing end-to-end data analysis, I love turning complex datasets into clean, visual, and functional insights.
+I'm **Pawan Shigwan**, a **backend-focused Java Full Stack Developer** and **CSE student** at VPPCOEVA, Mumbai.  
+I specialize in building scalable REST APIs, AI-powered applications, and real-time systems using **Spring Boot**, **React.js**, **MongoDB**, and **WebSocket**.  
+I love integrating AI into real products and engineering systems that are fast, secure, and production-ready.
 
-- Skilled in **Data Analysis**, **Frontend Development**, **Python**, **Jupyter Notebook**, and **SQL**
-- Passionate about **data visualization**, clean UI/UX design, and writing readable, maintainable code
-- Currently diving deeper into **Machine Learning**, **DSA**, and full-stack development
+- 🔧 Skilled in **Java**, **Spring Boot**, **React.js**, **MongoDB**, **Spring AI**, **Groq AI**, **JWT**, and **Azure**
+- ☁️ Experienced with **Azure Blob Storage**, **GCP**, **Vercel**, **Netlify** deployments
+- 🔐 Strong interest in **backend engineering**, **distributed systems**, and **secure scalable architectures**
+- 🏆 **SIH 2025 Internal Hackathon Finalist** | **Best Mini Project Award** winner
+- 📍 Based in **Mumbai, Maharashtra** 🇮🇳
 
 ---
 
 ### Languages I Use Often
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
@@ -48,25 +52,45 @@ From crafting interactive web tools to performing end-to-end data analysis, I lo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,react,mysql,jupyter,bootstrap,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,spring,react,python,js,html,css,mongodb,mysql,azure,git,github,vscode,idea,vercel,netlify,bootstrap&perline=9" />
   </a>
 </p>
 
-> Also experienced with: `Excel`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Data Visualization`
+> Also experienced with: `Spring AI`, `Groq AI`, `JWT`, `WebSocket`, `SockJS`, `Spring Security`, `Clerk`, `AI Agents (ADK)`, `REST APIs`, `JUnit`
 
 ---
 
-### Project Highlights
+### 🚀 Project Highlights
 
 | Project | Description | Tech Stack |
 |-------|-------------|------------|
-| **Frontend Web Projects (Motion Cut)** | Collection of 4 interactive & dynamic websites built during internship | `HTML`, `CSS`, `JavaScript` |
-| **Employee Burnout Analysis** | ML-based analysis predicting employee burnout risk from HR data | `Python`, `Pandas`, `Seaborn`, `Jupyter` |
-| **Data Analyst Tasks (1–4)** | End-to-end data cleaning, exploratory data analysis & visualization | `Python`, `Matplotlib`, `NumPy` |
-| **Iris Flower Classification** | Classic ML classification using supervised learning algorithms | `Python`, `Scikit-learn`, `Jupyter` |
-| **Sales Data Analysis** | Dashboard-style EDA on retail sales trends & KPIs | `Python`, `Pandas`, `Matplotlib` |
+| **🍕 Foodify – AI Food Delivery** | Full-stack AI-powered food delivery platform with 10+ REST APIs, smart recommendations, JWT auth & Azure Blob storage | `Spring Boot`, `Spring AI`, `Groq AI`, `React.js`, `JWT`, `Azure` |
+| **💬 Chatify – Real-Time Chat App** | Secure real-time chat supporting 50+ concurrent users with sub-100ms latency via WebSocket + SockJS | `Spring Boot`, `React.js`, `WebSocket`, `MongoDB`, `Clerk` |
+| **💳 UPI Offline Mesh** | Offline-first UPI payment gateway over Bluetooth mesh with RSA-OAEP/AES-GCM hybrid encryption & SHA-256 idempotency | `Spring Boot`, `HTML`, `CSS`, `RSA`, `AES`, `Gossip Protocol` |
+| **🤖 IoT AI System (AICTE)** | Deployed AI agents on IoT systems, reducing AI response latency by 20%; mentored 30+ students | `AI Agents (ADK)`, `IoT`, `Edge Computing` |
+| **🌐 Frontend Internship (Motioncut)** | 5+ responsive web pages achieving 25% faster page load, with cross-browser compatibility | `HTML`, `CSS`, `JavaScript`, `Bootstrap`, `Git` |
 
 👉 View all projects: [@PawanShigwan](https://github.com/PawanShigwan?tab=repositories)
+
+---
+
+## 💼 Experience
+
+**Java Developer Intern** — *Elevate Labs* `Nov 2025 – Dec 2025`  
+Built & integrated RESTful APIs with MySQL, reducing data retrieval time by **30%**; applied Spring Boot with **90%+ JUnit test coverage**
+
+**Frontend Web Development Intern** — *Motioncut* `Oct 2024 – Dec 2024`  
+Delivered 5+ responsive web pages and achieved **25% improvement** in page load speed using HTML, CSS, JS & Bootstrap
+
+---
+
+## 🏅 Certifications & Achievements
+
+- 🥇 **Best Mini Project Award** – IoT Based Automation System *(Dec 2025)*
+- 🏆 **Internal Hackathon Finalist** – Smart India Hackathon SIH *(Nov 2025)*
+- 📊 **Data Analytics with Cloud Computing & AI** – Centum Foundation *(Feb 2026)*
+- 🤖 **Generative AI** – Edubridge Foundation | Neural Networks, Deep Learning, LLMs *(Feb 2025)*
+- 🗄️ **NPTEL** – Database Management Systems *(Sep 2024)*
 
 ---
 
@@ -91,16 +115,9 @@ From crafting interactive web tools to performing end-to-end data analysis, I lo
 
 ---
 
-## 👾 Pacman Contribution Graph
+## 👾 Snake Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/PawanShigwan/PawanShigwan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/PawanShigwan/PawanShigwan/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph"
-       src="https://raw.githubusercontent.com/PawanShigwan/PawanShigwan/output/pacman-contribution-graph.svg">
-</picture>
+![Snake animation](https://raw.githubusercontent.com/PawanShigwan/PawanShigwan/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -122,12 +139,12 @@ From crafting interactive web tools to performing end-to-end data analysis, I lo
 
 ### 💬 Fun Fact
 
-> "Data is the new oil — but insight is the refinery."  
+> "Build it secure. Ship it fast. Scale it smart."  
 > — *Pawan*
 
 ---
 
 <p align="center">
-  Built with 💻 | Analyzed with 📊 | Deployed with 🚀  
+  Built with ☕ | Powered by Spring 🌱 | Deployed with 🚀
   <br/>
 </p>
