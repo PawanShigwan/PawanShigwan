@@ -98,9 +98,8 @@ Delivered 5+ responsive web pages and achieved **25% improvement** in page load 
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PawanShigwan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanShigwan&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanShigwan&layout=compact&theme=tokyonight&hide_border=true&count_private=true&hide=typescript&langs_count=8&exclude_repo=PawanShigwan" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PawanShigwan&theme=tokyonight&hide_border=true" />
 </p>
